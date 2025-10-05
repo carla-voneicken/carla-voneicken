@@ -1,10 +1,13 @@
 ![Background Image](./BackgroundImage.jpeg)
-<h2>
-Aspiring app developer eager to turn passion into professional impact.  
-</h2>
 
-## 👩🏻‍💻 About Me
+## ✨ Aspiring app developer eager to turn passion into professional impact ✨
 
+Hi! I'm Carla 👋 I'm a passionate Junior App Developer currently completing the [**Appvanced Experts Program**](https://www.app-entwickler-werden.de/kursinhalte). I have been teaching myself how to code for more than three years now and fell in love with it from the very first "Hello World". After working through several courses on computer science, web development and databases I found my home in **Mobile App Development**. I love using creativity and logical thinking to create useful and beautiful apps that offer solutions for every-day problems. I am currently looking for a Junior position to contribute to meaningful projects and further refine my skills in Android and iOS development.
+
+ **✉️  Get in touch:** Message me on [LinkedIn](https://www.linkedin.com/in/carla-von-eicken/) or via [E-Mail](voneicken.dev@outlook.de) 
+
+
+### 👩🏻‍💻 Info 
 ```yaml
 name: "Carla von Eicken"
 located_in: "Berlin, Germany"
@@ -78,8 +81,7 @@ languages:
 hobbies: [ "cozy games", "arts and crafts", "books", "piano"]
 ```
 
-
-## 🛠️ Some Of The Tools I Have Used 
+### 🛠️ Some Of The Tools I Have Used 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="50"/>
@@ -101,7 +103,7 @@ hobbies: [ "cozy games", "arts and crafts", "books", "piano"]
 </p>
 
 
-## 🐍 Contributions
+### 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carla-voneicken/carla-voneicken/output/github-contribution-grid-snake-dark.svg">
