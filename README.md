@@ -1,4 +1,7 @@
 ![Background Image](./BackgroundImage.jpeg)
+<h2>
+Aspiring app developer eager to turn passion into professional impact.  
+</h2>
 
 ## 👩🏻‍💻 About Me
 
@@ -75,7 +78,7 @@ languages:
 hobbies: [ "cozy games", "arts and crafts", "books", "piano"]
 ```
 
-<!--
+
 ## 🛠️ Some Of The Tools I Have Used 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="50"/>
@@ -97,15 +100,14 @@ hobbies: [ "cozy games", "arts and crafts", "books", "piano"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="50"/>
 </p>
 
--->
 
-## 📊 Profile Stats
+## 🐍 Contributions
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carla-voneicken)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carla-voneicken&size_weight=0.5&count_weight=0.5&layout=donut)
-
-![Snake animation](https://github.com/carla-voneicken/carla-voneicken/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carla-voneicken/carla-voneicken/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carla-voneicken/carla-voneicken/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carla-voneicken/carla-voneicken/output/github-contribution-grid-snake.svg">
+</picture>
 
 
           
